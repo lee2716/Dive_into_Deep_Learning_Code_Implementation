@@ -1,0 +1,6 @@
+numpy
+matplotlib
+jupyterlab
+tensorflow>=2.12   # myfirstNN.ipynb, mnistDense.ipynb
+torch>=2.0         # my_resnet.ipynb
+torchvision>=0.15
